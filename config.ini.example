@@ -1,0 +1,5 @@
+[RENTRI]
+sandbox = True
+p12_path = ./12345678901.p12
+p12_password = your_p12_password
+vat_number = 12345678901
